@@ -1,0 +1,5 @@
+homepage: "https://growthsavvy.io/"
+documentation: "https://growthsavvy.io/google-tag-manager/how-to-easily-setup-cookies-in-gtm-using-our-custom-cookie-template/"
+versions:
+  - sha: 60c412501013211658307b68c64a8093e1820ba1
+    changeNotes: Initial release.
